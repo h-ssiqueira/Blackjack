@@ -8,6 +8,8 @@ Projeto realizado para a disciplina de [Algoritmos e Programação de Computador
 
 Simulação do jogo Blackjack (21) em terminal, entre 1 a 4 jogadores e utilizando entre 2 a 4 baralhos.
 
+![BlackJack](screen.png)
+
 ## Execução do programa
 O programa deve ser executado na IDE Code::Blocks no sistema operacional Windows.
 
